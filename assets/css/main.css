@@ -2301,9 +2301,9 @@ input, select, textarea {
 	}
 
 	#header {
-		background: #a175b4;
+		background: #a17bb2;
 		box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.075);
-		opacity: .5;
+		opacity: 1;
 		color:  #464646;
 		cursor: default;
 		font-size: 0.8em;
