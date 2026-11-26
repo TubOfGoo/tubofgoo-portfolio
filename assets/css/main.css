@@ -3339,3 +3339,11 @@ input, select, textarea {
 			}
 
 	}
+
+
+	/* background test */
+
+	.background-image{
+		background-image: url(images/backgroundSketch.png);
+
+	}
