@@ -2216,7 +2216,7 @@ input, select, textarea {
 			background-image: url("images/ChainsSketch.png"), url("images/ChainsSketch.png");
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
-			background-size: 25em, 25em;
+			background-size: 5em, 5em;
 			color: #fff;
 		}
 
