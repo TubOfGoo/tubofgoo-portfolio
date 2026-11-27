@@ -83,7 +83,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #1e1e1e;
+		background: #d4d4d4;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2594,7 +2594,7 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		background-image: url("images/dark-tl.svg"), url("images/dark-tr.svg"), url("images/dark-bl.svg"), url("images/dark-br.svg");
+		background-image: url("images/ChainsSketch.png"), url("images/ChainsSketch.png"), url("images/ChainsSketch.png"), url("images/ChainsSketch.png");
 		background-position: top left, top right, bottom left, bottom right;
 		background-repeat: no-repeat;
 		background-size: 25em;
