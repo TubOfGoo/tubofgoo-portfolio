@@ -2301,10 +2301,10 @@ input, select, textarea {
 	}
 
 	#header {
-		background: #a17bb2;
+		background: #ffffff;
 		box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.075);
 		opacity: 1;
-		color:  #000000;
+		color:  #545454;
 		cursor: default;
 		font-size: 0.8em;
 		left: 0;
