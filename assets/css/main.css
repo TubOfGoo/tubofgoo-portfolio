@@ -2599,22 +2599,7 @@ input, select, textarea {
 		background-repeat: no-repeat;
 		background-size: 25em;
 		padding: 5em 0;
-	}
 
-		#main > :last-child {
-			margin-bottom: 0;
-		}
-
-		#main .sidebar section {
-
-			margin: 3em 0 0 0;
-			padding: 3em 0 0 0;
-		}
-
-			#main .sidebar section:first-child {
-				border-top: 0;
-				padding-top: 0;
-				margin-top: 0;
 			}
 
 	body.index #main {
