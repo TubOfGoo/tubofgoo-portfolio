@@ -2594,11 +2594,11 @@ input, select, textarea {
 
 	#main {
 		background-image: url("images/ChainsSketch.png"), url("images/ChainsSketch.png"), url("images/ChainsSketch.png"), url("images/ChainsSketch.png");
-		background-position: top left + 25em, top right, bottom left+25em, bottom right;
+		background-position: top left + 25px, top right, bottom left+25px, bottom right;
 		background-repeat: no-repeat;
 		background-size: 5em;
 		padding: 5em 0;
-		padding-left: 5em 0;
+
 	}
 
 		#main > :last-child {
