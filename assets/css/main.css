@@ -2598,6 +2598,7 @@ input, select, textarea {
 		background-repeat: no-repeat;
 		background-size: 5em;
 		padding: 5em 0;
+		padding-left: 5em 0;
 	}
 
 		#main > :last-child {
